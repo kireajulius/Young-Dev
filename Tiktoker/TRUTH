@@ -1,0 +1,126 @@
+<html lang="en"><head>
+		<meta charset="utf-8">
+		<link rel="icon" href="https://truthwifi.com/favicon.png">
+		<meta name="viewport" content="width=device-width">
+		
+		<link href="./_app/immutable/assets/_layout-ea763abb.css" rel="stylesheet">
+		<link href="./_app/immutable/assets/Plans-bc4e54f8.css" rel="stylesheet">
+		<link href="./_app/immutable/assets/NasOps-2de56765.css" rel="stylesheet">
+        <title>TRUTH WIFI&nbsp;- The Promised LAN</title>
+        
+        <script src="https://www.googletagmanager.com/gtag/js?id=G-6BQX8XQPFZ" async=""></script>
+        
+        <script>window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'G-6BQX8XQPFZ');</script>
+
+
+        <meta name="description" content="The promised LAN">
+	<link rel="modulepreload" as="script" crossorigin="" href="https://truthwifi.com/_app/immutable/chunks/0-6e184459.js">
+    <link rel="modulepreload" as="script" crossorigin="" href="https://truthwifi.com/_app/immutable/components/pages/_layout.svelte-9aa091bf.js">
+    <link rel="modulepreload" as="script" crossorigin="" href="https://truthwifi.com/_app/immutable/chunks/index-e9713d74.js">
+    <link rel="modulepreload" as="script" crossorigin="" href="https://truthwifi.com/_app/immutable/chunks/auth-46b921ea.js">
+    <link rel="modulepreload" as="script" crossorigin="" href="https://truthwifi.com/_app/immutable/chunks/index-9ef692b1.js">
+    <link rel="modulepreload" as="script" crossorigin="" href="https://truthwifi.com/_app/immutable/chunks navigation-739c425c.js">
+    <link rel="modulepreload" as="script" crossorigin="" href="https://truthwifi.com/_app/immutable/chunks/singletons-60d7876b.js">
+    <link rel="modulepreload" as="script" crossorigin="" href="https://truthwifi.com/_app/immutable/chunks/stores-9da4aeda.js">
+    <link rel="modulepreload" as="script" crossorigin="" href="https://truthwifi.com/_app/immutable/chunks/helpers-6461ed33.js">
+    <link rel="modulepreload" as="script" crossorigin="" href="https://truthwifi.com/_app/immutable/chunks/auth-64bea7cc.js">
+    <link rel="modulepreload" as="script" crossorigin="" href="https://truthwifi.com/_app/immutable/chunks/constants-3feb30ee.js">
+    <link rel="modulepreload" as="script" crossorigin="" href="https://truthwifi.com/_app/immutable/chunks/home-ea362172.js">
+    <link rel="modulepreload" as="script" crossorigin="" href="https://truthwifi.com/_app/immutable/chunks/1-96806b40.js">
+    <link rel="modulepreload" as="script" crossorigin="" href="https://truthwifi.com/_app/immutable/components/error.svelte-5d59c3d1.js">
+    <link rel="modulepreload" as="script" crossorigin="" href="https://truthwifi.com/_app/immutable/chunks/2-53355cae.js">
+    <link rel="modulepreload" as="script" crossorigin="" href="https://truthwifi.com/_app/immutable/chunks/_page-4039aba4.js">
+    <link rel="modulepreload" as="script" crossorigin="" href="https://truthwifi.com/_app/immutable/components/pages/_page.svelte-2ee2566d.js">
+    <link rel="modulepreload" as="script" crossorigin="" href="https://truthwifi.com/_app/immutable/chunks/Plans-fece36b2.js">
+    <link rel="modulepreload" as="script" crossorigin="" href="https://truthwifi.com/_app/immutable/chunks/LoadingButton-004b058e.js">
+    <link rel="modulepreload" as="script" crossorigin="" href="https://truthwifi.com/_app/immutable/chunks/loading-e6a561bb.js">
+    <link rel="modulepreload" as="script" crossorigin="" href="https://truthwifi.com/_app/immutable/chunks/NasOps-ccad4f02.js">
+    <link rel="modulepreload" as="script" crossorigin="" href="https://truthwifi.com/_app/immutable/chunks/logo-16e41fd6.js">
+    <link rel="modulepreload" as="script" crossorigin="" href="https://truthwifi.com/_app/immutable/chunks/logo-1b84d658.js">
+    <link rel="modulepreload" as="script" crossorigin="" href="https://truthwifi.com/_app/immutable/chunks/7-e5c5d9a3.js">
+    <link rel="modulepreload" as="script" crossorigin="" href="https://truthwifi.com/_app/immutable/components/pages/auth/register/_page.svelte-5c964cd0.js">
+    <link rel="modulepreload" as="script" crossorigin="" href="https://truthwifi.com/_app/immutable/chunks/5-660d93c1.js">
+    <link rel="modulepreload" as="script" crossorigin="" href="https://truthwifi.com/_app/immutable/components/pages/auth/login/_page.svelte-7c02b2c5.js">
+</head>
+<body data-sveltekit-preload-data="hover">
+		<div style="display: contents"> <div class="app text-white svelte-1nz3wqz" style="background-image: url(&quot;https://i.truthwifi.com/storage/bg/6CyGu5Gu2e9Bb2wOQiTp2pflmcBIfIboJrzR0F98.jpg&quot;);"><div class="main-purple w-full p-2 text-white font-bold hidden"><div class="w-11/12 md:w-10/12 mx-auto md:flex justify-between items-center py-2 md:py-3"><div class="flex justify-between"><a href="/"><h1>TRUTH WIFI</h1></a> 
+            
+            <img src="/_app/immutable/assets/menu-65a4dcec.svg" class="md:hidden block" alt=""></div> 
+        
+        <div id="nav_menu" class="md:flex gap-4 z-40 md:z-auto absolute md:static main-purple w-full md:w-auto left-0 md:opacity-100 opacity-0 top-[-400px]"><div class="px-8 md:px-0 py-2 md:py-0"><button>Home</button></div> 
+        
+        <div class="px-8 md:px-0 py-2 md:py-0"><button>Help</button></div> <div class="px-8 md:px-0 py-2 md:py-0"><button>Internet plans</button></div> 
+    
+    </div></div> 
+        
+        <div id="overlay" class="fixed left-0 right-0 opacity-50 bottom-0 bg-black z-30 hidden" style="top:54px"></div></div> <main class="svelte-1nz3wqz"> 
+            <section><div class="flex justify-center my-2"><img src="/_app/immutable/assets/logo-b3f74aaa.png" class="w-32 my-4 md:w-64 object-fit"></div> 
+                <div class="w-10/12 md:w-3/5 mx-auto"><section><div class="flex items-center border shadow-lg glass-bg p-2 rounded-lg hidden svelte-77unop"><div class="flex flex-shrink-0"><img src="/_app/immutable/assets/loading-2eff2ae6.gif" class="w-8 h-8 md:w-12 md:h-12"></div> 
+                <div class="flex-grow text-purple-700 font-bold"><p class="text-center text-xs md:text-base nasops svelte-77unop" style="">Kindly buy an internet bundle to browse the internet!</p> 
+                <p class="text-center font-normal text-white text-xs"></p></div>
+                <div class="flex-shrink-0"><button class="border-2 flex items-center gap-4 main-purple text-white font-bold border-purple-500 py-1 px-3 rounded-full mt-2"><img src="/_app/immutable/assets/reload-17676cf0.svg"> <p>Retry</p></button></div></div></section></div> 
+                <div class="flex my-4 md:my-5 justify-center"><div class="flex gap-4 md:gap-8 font-bold"><a href="/auth/login" class="px-4 py-2 w-40 md:w-80 rounded-full text-center bg-blue-500">Sign in</a> <a href="/auth/register" class="px-4 py-2 w-40 md:w-80 rounded-full text-center bg-red-500">Register</a></div></div> <div><div>
+                    
+                    <section>
+                        
+                    <div class="w-11/12 md:w-1/2 mx-auto p-1 md:p-3"><div class="my-4"><h1 class="text-center font-bold text-xl">Access Fast and affordable packages</h1></div> <div class="my-4"><p class="text-center text-sm md:text-base"></p>
+                    
+                    </div> 
+                    <div class=""><div class="flex gap-2 md:gap-4 my-4 justify-center flex-wrap "><div class="my-2 cursor-pointer"><div class="text-white main-purple font-bold shadow-lg rounded-full px-4 md:px-5 py-1 text-xs md:text-base svelte-y3a2cw">Moderate Daily Unlimited @50/-</div> 
+
+                </div>
+                
+                <div class="my-2 cursor-pointer"><div class="text-white main-purple font-bold shadow-lg rounded-full px-4 md:px-5 py-1 text-xs md:text-base svelte-y3a2cw">Daily Fast Unlimited @80/-</div> 
+            </div>
+            
+            <div class="my-2 cursor-pointer"><div class="text-white main-purple font-bold shadow-lg rounded-full px-4 md:px-5 py-1 text-xs md:text-base svelte-y3a2cw">Weekly Unlimited @300/-</div> 
+        
+        </div>
+        <div class="my-2 cursor-pointer"><div class="text-white bg-yellow-500 font-bold shadow-lg rounded-full px-4 md:px-5 py-1 text-xs md:text-base svelte-y3a2cw">One Hour Unlimited @10/-</div> 
+        </div><div class="my-2 cursor-pointer"><div class="text-white bg-yellow-500 font-bold shadow-lg rounded-full px-4 md:px-5 py-1 text-xs md:text-base svelte-y3a2cw">Weekly 2 GB @50/-</div> 
+    
+    
+</div>
+
+<div class="my-2 cursor-pointer"><div class="text-white bg-yellow-500 font-bold shadow-lg rounded-full px-4 md:px-5 py-1 text-xs md:text-base svelte-y3a2cw">Daily 2 GB @30/-</div> 
+    
+</div>
+    <div class="my-2 cursor-pointer"><div class="text-white bg-blue-700 font-bold shadow-lg rounded-full px-4 md:px-5 py-1 text-xs md:text-base svelte-y3a2cw">Daily 1 GB @20/-</div> 
+</div>
+
+ <div class="my-2 cursor-pointer"><div class="text-white bg-blue-700 font-bold shadow-lg rounded-full px-4 md:px-5 py-1 text-xs md:text-base svelte-y3a2cw">Daily 300 MB @10/-</div> 
+</div>
+
+<div class="my-2 cursor-pointer"><div class="text-white bg-blue-700 font-bold shadow-lg rounded-full px-4 md:px-5 py-1 text-xs md:text-base svelte-y3a2cw">Daily 100 MB @5/-</div> 
+</div>
+
+<div class="my-2 cursor-pointer"><div class="text-white bg-orange-500 font-bold shadow-lg rounded-full px-4 md:px-5 py-1 text-xs md:text-base svelte-y3a2cw">Monthly 30 GB @500/-</div> 
+</div>
+
+<div class="my-2 cursor-pointer"><div class="text-white bg-blue-700 font-bold shadow-lg rounded-full px-4 md:px-5 py-1 text-xs md:text-base svelte-y3a2cw">MONTHLY UNLIMITED @1000/-</div> 
+</div></div></div></div> 
+
+</section>
+
+</div>
+
+</div> 
+<div class="flex justify-center my-4 md:my-5"><a href="tel:+254721998374" class="px-4 py-2 w-40 md:w-80 rounded-full text-center bg-green-500">Call us</a></div>
+
+</section>
+
+</main> 
+                
+                <footer class="svelte-1nz3wqz"><p>Copyright <a href="https://truthwifi.com" class="svelte-1nz3wqz">© TRUTH WIRELESS LIMITED</a></p></footer>
+            </div> 
+                
+                <div id="svelte-announcer" aria-live="assertive" aria-atomic="true" style="position: absolute; left: 0px; top: 0px; clip: rect(0px, 0px, 0px, 0px); clip-path: inset(50%); overflow: hidden; white-space: nowrap; width: 1px; height: 1px;">
+                </div>
+            </div>
+	
+
+</body>
+</html>

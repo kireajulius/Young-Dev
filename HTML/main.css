@@ -1,0 +1,7 @@
+body
+#li ::before {
+    content:  ✨;
+}
+#uli::after {
+    content: 😂;
+}

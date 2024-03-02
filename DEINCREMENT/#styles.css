@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #930707;
+  }
+  
+  .counter {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background-color: #7c107a;
+    border: 1px solid #ac2f2f;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(103, 3, 8, 0.574);
+  }
+  
+  .counter-button {
+    font-size: 40px;
+    padding: 10px 20px;
+    border: 1px solid #4e0202;
+    border-radius: 10px;
+    background-color: #6f0404;
+    cursor: pointer;
+  }
+  
+  .counter-button:hover {
+    background-color: #530110;
+  }
+  
+  .counter-value {
+    font-size: 36px;
+    margin: 0 20px;
+  }
+  
